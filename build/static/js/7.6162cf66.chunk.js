@@ -1,0 +1,2 @@
+(this.webpackJsonpreactjs=this.webpackJsonpreactjs||[]).push([[7],{68:function(e,t,a){"use strict";a.r(t),a.d(t,"default",(function(){return l}));var n=a(0),c=a.n(n),r=a(11);function l(e){var t=Object(r.g)();return c.a.createElement("div",{className:"container mt-3"},c.a.createElement("h1",null,c.a.createElement("code",null,"404 : Page Not Found!")),c.a.createElement("h4",null,"No match for ",c.a.createElement("code",null,t.pathname)))}}}]);
+//# sourceMappingURL=7.6162cf66.chunk.js.map
